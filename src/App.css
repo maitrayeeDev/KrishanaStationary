@@ -1,5 +1,8 @@
 * {
     margin: 0;
+    padding: 0;
+    margin: 0;
+    scroll-behavior: smooth;
 }
 
 .gradient__text {
@@ -28,13 +31,6 @@
     /* global 94%+ browsers support */
     background: linear-gradient(90deg, rgba(255, 255, 255, 1) 0%, rgba(239, 240, 177, 1) 50%, rgba(235, 238, 130, 1) 100%);
 
-    position: absolute;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    right: 0;
-    height: 100%;
-    width: 100%;
 }
 
 .scale-up-center {

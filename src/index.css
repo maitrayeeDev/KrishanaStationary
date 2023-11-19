@@ -3,4 +3,6 @@
 :root {
     --font-family: 'Manrope', sans-serif;
     --text-color: #02115d;
+    display: flex;
+    flex-direction: row;
 }
